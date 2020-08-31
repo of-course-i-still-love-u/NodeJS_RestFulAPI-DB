@@ -1,0 +1,2095 @@
+{
+    "status": {
+        "timestamp": "2020-08-19T06:37:43.689Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 26,
+        "credit_count": 1,
+        "notice": null
+    },
+    "data": 
+        {
+        "Bitcoin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+            "id": 1,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "slug": "bitcoin",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "SHA-256",
+                "Store of Value",
+                "State channels"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Litecoin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+            "id": 2,
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "slug": "litecoin",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Scrypt",
+                "Medium of Exchange"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "XRP": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+            "id": 52,
+            "name": "XRP",
+            "symbol": "XRP",
+            "slug": "xrp",
+            "tag-names": [
+                "Medium of Exchange",
+                "Enterprise solutions"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Dogecoin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+            "id": 74,
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "slug": "dogecoin",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Scrypt",
+                "Medium of Exchange",
+                "Memes",
+                "Payments"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "DigiByte": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png",
+            "id": 109,
+            "name": "DigiByte",
+            "symbol": "DGB",
+            "slug": "digibyte",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Multiple",
+                "Medium of Exchange",
+                "Privacy",
+                "Payments"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Dash": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
+            "id": 131,
+            "name": "Dash",
+            "symbol": "DASH",
+            "slug": "dash",
+            "tag-names": [
+                "Mineable",
+                "Hybrid - PoW & PoS",
+                "X11",
+                "Medium of Exchange",
+                "Privacy",
+                "Masternodes"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "MonaCoin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/213.png",
+            "id": 213,
+            "name": "MonaCoin",
+            "symbol": "MONA",
+            "slug": "monacoin",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Scrypt",
+                "Medium of Exchange",
+                "Memes"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Monero": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+            "id": 328,
+            "name": "Monero",
+            "symbol": "XMR",
+            "slug": "monero",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Medium of Exchange",
+                "RingCT"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Stellar": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+            "id": 512,
+            "name": "Stellar",
+            "symbol": "XLM",
+            "slug": "stellar",
+            "tag-names": [
+                "Medium of Exchange",
+                "Decentralized exchange"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Verge": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/693.png",
+            "id": 693,
+            "name": "Verge",
+            "symbol": "XVG",
+            "slug": "verge",
+            "tag-names": [
+                "Mineable",
+                "Multiple",
+                "Medium of Exchange",
+                "Privacy"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Tether": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+            "id": 825,
+            "name": "Tether",
+            "symbol": "USDT",
+            "slug": "tether",
+            "tag-names": [
+                "Store of Value",
+                "Payments",
+                "Stablecoin - Asset-Backed"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "NEM": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/873.png",
+            "id": 873,
+            "name": "NEM",
+            "symbol": "XEM",
+            "slug": "nem",
+            "tag-names": [
+                "PoI",
+                "Medium of Exchange",
+                "Payments",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Ethereum": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "id": 1027,
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "slug": "ethereum",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Ethash",
+                "Medium of Exchange",
+                "Crowdfunding",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Siacoin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1042.png",
+            "id": 1042,
+            "name": "Siacoin",
+            "symbol": "SC",
+            "slug": "siacoin",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Blake2b",
+                "Platform",
+                "Distributed Computing",
+                "Filesharing"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Augur": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png",
+            "id": 1104,
+            "name": "Augur",
+            "symbol": "REP",
+            "slug": "augur",
+            "tag-names": [
+                "Platform",
+                "DeFi",
+                "Prediction Markets",
+                "Reputation"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Decred": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png",
+            "id": 1168,
+            "name": "Decred",
+            "symbol": "DCR",
+            "slug": "decred",
+            "tag-names": [
+                "Mineable",
+                "Hybrid - PoW & PoS",
+                "BLAKE256",
+                "Medium of Exchange",
+                "Store of Value",
+                "Privacy",
+                "DAO"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Lisk": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png",
+            "id": 1214,
+            "name": "Lisk",
+            "symbol": "LSK",
+            "slug": "lisk",
+            "tag-names": [
+                "DPoS",
+                "Platform",
+                "Enterprise solutions",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Waves": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png",
+            "id": 1274,
+            "name": "Waves",
+            "symbol": "WAVES",
+            "slug": "waves",
+            "tag-names": [
+                "LPoS",
+                "Platform",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Ethereum_Classic": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+            "id": 1321,
+            "name": "Ethereum Classic",
+            "symbol": "ETC",
+            "slug": "ethereum-classic",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Ethash",
+                "Platform",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Neo": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png",
+            "id": 1376,
+            "name": "Neo",
+            "symbol": "NEO",
+            "slug": "neo",
+            "tag-names": [
+                "Platform",
+                "Enterprise solutions",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Zcash": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
+            "id": 1437,
+            "name": "Zcash",
+            "symbol": "ZEC",
+            "slug": "zcash",
+            "tag-names": [
+                "Mineable",
+                "PoW",
+                "Equihash",
+                "Medium of Exchange",
+                "Zero Knowledge Proofs"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Maker": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+            "id": 1518,
+            "name": "Maker",
+            "symbol": "MKR",
+            "slug": "maker",
+            "tag-names": [
+                "Store of Value",
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Nano": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png",
+            "id": 1567,
+            "name": "Nano",
+            "symbol": "NANO",
+            "slug": "nano",
+            "tag-names": [
+                "PoW",
+                "Blake2b",
+                "Medium of Exchange",
+                "Payments"
+            ],
+            "tag-groups": [
+                "CONSENSUS_ALGORITHM",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "16iExec_RLC37": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1637.png",
+            "id": 1637,
+            "name": "iExec RLC",
+            "symbol": "RLC",
+            "slug": "rlc",
+            "tag-names": [
+                "Marketplace",
+                "Distributed Computing"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Aragon": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1680.png",
+            "id": 1680,
+            "name": "Aragon",
+            "symbol": "ANT",
+            "slug": "aragon",
+            "tag-names": [
+                "Platform",
+                "Enterprise solutions",
+                "DAO"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Qtum": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png",
+            "id": 1684,
+            "name": "Qtum",
+            "symbol": "QTUM",
+            "slug": "qtum",
+            "tag-names": [
+                "Platform",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Basic_Attention_Token": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+            "id": 1697,
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "slug": "basic-attention-token",
+            "tag-names": [
+                "Marketing",
+                "Content Creation",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "IOTA": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
+            "id": 1720,
+            "name": "IOTA",
+            "symbol": "MIOTA",
+            "slug": "iota",
+            "tag-names": [
+                "DAG",
+                "Medium of Exchange",
+                "IoT",
+                "Sharing Economy"
+            ],
+            "tag-groups": [
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Bancor": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1727.png",
+            "id": 1727,
+            "name": "Bancor",
+            "symbol": "BNT",
+            "slug": "bancor",
+            "tag-names": [
+                "Marketplace",
+                "Decentralized exchange",
+                "DeFi",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Numeraire": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1732.png",
+            "id": 1732,
+            "name": "Numeraire",
+            "symbol": "NMR",
+            "slug": "numeraire",
+            "tag-names": [
+                "Asset management",
+                "AI & Big Data",
+                "DeFi",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Status": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1759.png",
+            "id": 1759,
+            "name": "Status",
+            "symbol": "SNT",
+            "slug": "status",
+            "tag-names": [
+                "Media",
+                "Content Creation",
+                "Privacy"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "EOS": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+            "id": 1765,
+            "name": "EOS",
+            "symbol": "EOS",
+            "slug": "eos",
+            "tag-names": [
+                "Medium of Exchange",
+                "Enterprise solutions",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "OMG_Network": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png",
+            "id": 1808,
+            "name": "OMG Network",
+            "symbol": "OMG",
+            "slug": "omg",
+            "tag-names": [
+                "Medium of Exchange",
+                "Payments",
+                "State channels"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Bitcoin_Cash": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+            "id": 1831,
+            "name": "Bitcoin Cash",
+            "symbol": "BCH",
+            "slug": "bitcoin-cash",
+            "tag-names": [
+                "Mineable",
+                "Marketplace",
+                "Enterprise solutions"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Binance_Coin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+            "id": 1839,
+            "name": "Binance Coin",
+            "symbol": "BNB",
+            "slug": "binance-coin",
+            "tag-names": [
+                "Marketplace",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Bytom": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1866.png",
+            "id": 1866,
+            "name": "Bytom",
+            "symbol": "BTM",
+            "slug": "bytom",
+            "tag-names": [
+                "Mineable",
+                "Platform",
+                "Payments",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "0x": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png",
+            "id": 1896,
+            "name": "0x",
+            "symbol": "ZRX",
+            "slug": "0x",
+            "tag-names": [
+                "Platform",
+                "Decentralized exchange",
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Loopring": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png",
+            "id": 1934,
+            "name": "Loopring",
+            "symbol": "LRC",
+            "slug": "loopring",
+            "tag-names": [
+                "Marketplace",
+                "Decentralized exchange",
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "TRON": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+            "id": 1958,
+            "name": "TRON",
+            "symbol": "TRX",
+            "slug": "tron",
+            "tag-names": [
+                "Media",
+                "Filesharing",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": 71659700000,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Decentraland": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+            "id": 1966,
+            "name": "Decentraland",
+            "symbol": "MANA",
+            "slug": "decentraland",
+            "tag-names": [
+                "Platform",
+                "Gaming",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Chainlink": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+            "id": 1975,
+            "name": "Chainlink",
+            "symbol": "LINK",
+            "slug": "chainlink",
+            "tag-names": [
+                "Platform",
+                "DeFi",
+                "Oracles",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Kyber_Network": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1982.png",
+            "id": 1982,
+            "name": "Kyber Network",
+            "symbol": "KNC",
+            "slug": "kyber-network",
+            "tag-names": [
+                "Marketplace",
+                "Decentralized exchange",
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Cardano": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+            "id": 2010,
+            "name": "Cardano",
+            "symbol": "ADA",
+            "slug": "cardano",
+            "tag-names": [
+                "Mineable",
+                "Platform",
+                "Research",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Tezos": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+            "id": 2011,
+            "name": "Tezos",
+            "symbol": "XTZ",
+            "slug": "tezos",
+            "tag-names": [
+                "Platform",
+                "Enterprise solutions",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Bitcoin_Gold": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png",
+            "id": 2083,
+            "name": "Bitcoin Gold",
+            "symbol": "BTG",
+            "slug": "bitcoin-gold",
+            "tag-names": [
+                "Mineable",
+                "Medium of Exchange",
+                "Payments"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "ICON": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2099.png",
+            "id": 2099,
+            "name": "ICON",
+            "symbol": "ICX",
+            "slug": "icon",
+            "tag-names": [
+                "Platform",
+                "Enterprise solutions",
+                "Interoperability"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Enjin_Coin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png",
+            "id": 2130,
+            "name": "Enjin Coin",
+            "symbol": "ENJ",
+            "slug": "enjin-coin",
+            "tag-names": [
+                "Media",
+                "Collectibles & NFTs",
+                "Gaming"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Bitcoin_Diamond": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2222.png",
+            "id": 2222,
+            "name": "Bitcoin Diamond",
+            "symbol": "BCD",
+            "slug": "bitcoin-diamond",
+            "tag-names": [
+                "Mineable",
+                "Medium of Exchange",
+                "Payments"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Aave": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2239.png",
+            "id": 2239,
+            "name": "Aave",
+            "symbol": "LEND",
+            "slug": "aave",
+            "tag-names": [
+                "Platform",
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "IOST": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2405.png",
+            "id": 2405,
+            "name": "IOST",
+            "symbol": "IOST",
+            "slug": "iostoken",
+            "tag-names": [
+                "Hardware",
+                "IoT"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "THETA": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
+            "id": 2416,
+            "name": "THETA",
+            "symbol": "THETA",
+            "slug": "theta",
+            "tag-names": [
+                "Media",
+                "Content Creation",
+                "Video"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Zilliqa": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+            "id": 2469,
+            "name": "Zilliqa",
+            "symbol": "ZIL",
+            "slug": "zilliqa",
+            "tag-names": [
+                "Mineable",
+                "Platform",
+                "Payments"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Huobi_Token": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png",
+            "id": 2502,
+            "name": "Huobi Token",
+            "symbol": "HT",
+            "slug": "huobi-token",
+            "tag-names": [
+                "Marketplace",
+                "Discount token",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Ren": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2539.png",
+            "id": 2539,
+            "name": "Ren",
+            "symbol": "REN",
+            "slug": "ren",
+            "tag-names": [
+                "Marketplace",
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "TrueUSD": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
+            "id": 2563,
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "slug": "trueusd",
+            "tag-names": [
+                "Store of Value",
+                "Stablecoin - Asset-Backed"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Ontology": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2566.png",
+            "id": 2566,
+            "name": "Ontology",
+            "symbol": "ONT",
+            "slug": "ontology",
+            "tag-names": [
+                "Marketplace",
+                "Enterprise solutions",
+                "Identity"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Ravencoin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png",
+            "id": 2577,
+            "name": "Ravencoin",
+            "symbol": "RVN",
+            "slug": "ravencoin",
+            "tag-names": [
+                "Mineable",
+                "Platform",
+                "Collectibles & NFTs",
+                "Crowdfunding"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": [
+                "Asset management",
+                "Atomic Swaps",
+                "DeFi"
+            ],
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Synthetix_Network_Token": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
+            "id": 2586,
+            "name": "Synthetix Network Token",
+            "symbol": "SNX",
+            "slug": "synthetix-network-token",
+            "tag-names": [
+                "Services",
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Holo": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png",
+            "id": 2682,
+            "name": "Holo",
+            "symbol": "HOT",
+            "slug": "holo",
+            "tag-names": [
+                "Platform",
+                "Distributed Computing",
+                "Filesharing"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "VeChain": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+            "id": 3077,
+            "name": "VeChain",
+            "symbol": "VET",
+            "slug": "vechain",
+            "tag-names": [
+                "Logistics",
+                "Data Provenance",
+                "Smart Contracts"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "DxChain_Token": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3139.png",
+            "id": 3139,
+            "name": "DxChain Token",
+            "symbol": "DX",
+            "slug": "dxchain-token",
+            "tag-names": [
+                "Technology",
+                "AI & Big Data",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Quant": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+            "id": 3155,
+            "name": "Quant",
+            "symbol": "QNT",
+            "slug": "quant",
+            "tag-names": [
+                "Platform",
+                "Interoperability"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Paxos_Standard": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png",
+            "id": 3330,
+            "name": "Paxos Standard",
+            "symbol": "PAX",
+            "slug": "paxos-standard",
+            "tag-names": [
+                "Store of Value",
+                "Stablecoin - Asset-Backed"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "ZB_Token": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3351.png",
+            "id": 3351,
+            "name": "ZB Token",
+            "symbol": "ZB",
+            "slug": "zb-token",
+            "tag-names": [
+                "Marketplace",
+                "Discount token",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "The_Midas_Touch_Gold": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3356.png",
+            "id": 3356,
+            "name": "The Midas Touch Gold",
+            "symbol": "TMTG",
+            "slug": "the-midas-touch-gold",
+            "tag-names": null,
+            "tag-groups": null,
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "USD_Coin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+            "id": 3408,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "slug": "usd-coin",
+            "tag-names": [
+                "Medium of Exchange",
+                "Stablecoin - Asset-Backed"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Divi": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3441.png",
+            "id": 3441,
+            "name": "Divi",
+            "symbol": "DIVI",
+            "slug": "divi",
+            "tag-names": [
+                "Mineable",
+                "Asset management",
+                "Masternodes",
+                "Wallet"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Bitcoin_SV": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png",
+            "id": 3602,
+            "name": "Bitcoin SV",
+            "symbol": "BSV",
+            "slug": "bitcoin-sv",
+            "tag-names": [
+                "Mineable",
+                "Medium of Exchange"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Crypto_com_Coin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+            "id": 3635,
+            "name": "Crypto.com Coin",
+            "symbol": "CRO",
+            "slug": "crypto-com-coin",
+            "tag-names": [
+                "Medium of Exchange",
+                "Mobile",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "HedgeTrade": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3662.png",
+            "id": 3662,
+            "name": "HedgeTrade",
+            "symbol": "HEDG",
+            "slug": "hedgetrade",
+            "tag-names": [
+                "Asset management",
+                "Marketplace",
+                "Discount token"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Hyperion": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3695.png",
+            "id": 3695,
+            "name": "Hyperion",
+            "symbol": "HYN",
+            "slug": "hyperion",
+            "tag-names": [
+                "Platform",
+                "Geospatial services"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "BitTorrent": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3718.png",
+            "id": 3718,
+            "name": "BitTorrent",
+            "symbol": "BTT",
+            "slug": "bittorrent",
+            "tag-names": [
+                "Platform",
+                "Distributed Computing",
+                "Filesharing"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": 659953000000,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Fetch_ai": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png",
+            "id": 3773,
+            "name": "Fetch.ai",
+            "symbol": "FET",
+            "slug": "fetch",
+            "tag-names": [
+                "Technology",
+                "AI & Big Data"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Cosmos": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+            "id": 3794,
+            "name": "Cosmos",
+            "symbol": "ATOM",
+            "slug": "cosmos",
+            "tag-names": [
+                "Platform",
+                "Content Creation",
+                "Interoperability"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Flexacoin": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3812.png",
+            "id": 3812,
+            "name": "Flexacoin",
+            "symbol": "FXC",
+            "slug": "flexacoin",
+            "tag-names": [
+                "Medium of Exchange",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "OKB": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png",
+            "id": 3897,
+            "name": "OKB",
+            "symbol": "OKB",
+            "slug": "okb",
+            "tag-names": [
+                "Marketplace",
+                "Centralized exchange",
+                "Discount token"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Ocean_Protocol": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3911.png",
+            "id": 3911,
+            "name": "Ocean Protocol",
+            "symbol": "OCEAN",
+            "slug": "ocean-protocol",
+            "tag-names": [
+                "Platform",
+                "AI & Big Data"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "UNUS_SED_LEO": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png",
+            "id": 3957,
+            "name": "UNUS SED LEO",
+            "symbol": "LEO",
+            "slug": "unus-sed-leo",
+            "tag-names": [
+                "Marketplace",
+                "Discount token",
+                "Payments"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Reserve_Rights": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3964.png",
+            "id": 3964,
+            "name": "Reserve Rights",
+            "symbol": "RSR",
+            "slug": "reserve-rights",
+            "tag-names": [
+                "Store of Value",
+                "DeFi",
+                "Stablecoin - Asset-Backed"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Algorand": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+            "id": 4030,
+            "name": "Algorand",
+            "symbol": "ALGO",
+            "slug": "algorand",
+            "tag-names": [
+                "Mineable",
+                "PoS",
+                "Platform",
+                "Research"
+            ],
+            "tag-groups": [
+                "OTHER",
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Ampleforth": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4056.png",
+            "id": 4056,
+            "name": "Ampleforth",
+            "symbol": "AMPL",
+            "slug": "ampleforth",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Elrond": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4086.png",
+            "id": 4086,
+            "name": "Elrond",
+            "symbol": "ERD",
+            "slug": "elrond",
+            "tag-names": [
+                "Store of Value"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "THORChain": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png",
+            "id": 4157,
+            "name": "THORChain",
+            "symbol": "RUNE",
+            "slug": "thorchain",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": 175553000,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Terra": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png",
+            "id": 4172,
+            "name": "Terra",
+            "symbol": "LUNA",
+            "slug": "terra-luna",
+            "tag-names": [
+                "Store of Value",
+                "DeFi",
+                "Payments",
+                "Stablecoin - Algorithmically-Stabilized"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "FTX_Token": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png",
+            "id": 4195,
+            "name": "FTX Token",
+            "symbol": "FTT",
+            "slug": "ftx-token",
+            "tag-names": [
+                "Marketplace",
+                "Derivatives"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Swipe": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png",
+            "id": 4279,
+            "name": "Swipe",
+            "symbol": "SXP",
+            "slug": "swipe",
+            "tag-names": [
+                "Medium of Exchange",
+                "DeFi",
+                "Payments",
+                "Wallet"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Hedera_Hashgraph": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+            "id": 4642,
+            "name": "Hedera Hashgraph",
+            "symbol": "HBAR",
+            "slug": "hedera-hashgraph",
+            "tag-names": [
+                "DAG",
+                "Marketplace",
+                "Enterprise solutions",
+                "Payments"
+            ],
+            "tag-groups": [
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Band_Protocol": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png",
+            "id": 4679,
+            "name": "Band Protocol",
+            "symbol": "BAND",
+            "slug": "band-protocol",
+            "tag-names": [
+                "DeFi",
+                "Oracles"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Binance_USD": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+            "id": 4687,
+            "name": "Binance USD",
+            "symbol": "BUSD",
+            "slug": "binance-usd",
+            "tag-names": [
+                "Store of Value",
+                "Stablecoin - Asset-Backed"
+            ],
+            "tag-groups": [
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "HUSD": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png",
+            "id": 4779,
+            "name": "HUSD",
+            "symbol": "HUSD",
+            "slug": "husd",
+            "tag-names": [
+                "PoW",
+                "Medium of Exchange",
+                "Stablecoin",
+                "Stablecoin - Asset-Backed"
+            ],
+            "tag-groups": [
+                "CONSENSUS_ALGORITHM",
+                "PROPERTY",
+                "PROPERTY",
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Kava_io": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png",
+            "id": 4846,
+            "name": "Kava.io",
+            "symbol": "KAVA",
+            "slug": "kava",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Blockstack": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png",
+            "id": 4847,
+            "name": "Blockstack",
+            "symbol": "STX",
+            "slug": "blockstack",
+            "tag-names": null,
+            "tag-groups": null,
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Dai": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+            "id": 4943,
+            "name": "Dai",
+            "symbol": "DAI",
+            "slug": "multi-collateral-dai",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Nervos_Network": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4948.png",
+            "id": 4948,
+            "name": "Nervos Network",
+            "symbol": "CKB",
+            "slug": "nervos-network",
+            "tag-names": null,
+            "tag-groups": null,
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Kusama": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png",
+            "id": 5034,
+            "name": "Kusama",
+            "symbol": "KSM",
+            "slug": "kusama",
+            "tag-names": null,
+            "tag-groups": null,
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": 8597990,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "Energy_Web_Token": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5268.png",
+            "id": 5268,
+            "name": "Energy Web Token",
+            "symbol": "EWT",
+            "slug": "energy-web-token",
+            "tag-names": null,
+            "tag-groups": null,
+            "self_reported_tags": [
+                "Energy",
+                "Identity",
+                "Enterprise solutions"
+            ],
+            "self_reported_circulating_supply": 30062100,
+            "is_hidden": 0,
+            "category": "coin"
+        },
+        "JUST": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5488.png",
+            "id": 5488,
+            "name": "JUST",
+            "symbol": "JST",
+            "slug": "just",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Compound": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+            "id": 5692,
+            "name": "Compound",
+            "symbol": "COMP",
+            "slug": "compound",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "Balancer": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png",
+            "id": 5728,
+            "name": "Balancer",
+            "symbol": "BAL",
+            "slug": "balancer",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": 6943830,
+            "is_hidden": 0,
+            "category": "token"
+        },
+        "yearn_finance": {
+            "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png",
+            "id": 5864,
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "slug": "yearn-finance",
+            "tag-names": [
+                "DeFi"
+            ],
+            "tag-groups": [
+                "PROPERTY"
+            ],
+            "self_reported_tags": null,
+            "self_reported_circulating_supply": null,
+            "is_hidden": 0,
+            "category": "token"
+        }
+    }
+}
