@@ -18,7 +18,7 @@ DBCon = () => {
 }
 
 
-const server = app.listen(8082, '10.72.16.148', function () {
+const server = app.listen(8082, '172.20.10.5', function () {
 
     var host = server.address().address
     var port = server.address().port
@@ -143,6 +143,7 @@ const GetDataFromSever = () => {
 
 
     const apiURL = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?limit=100"
+    
 
     fetch(apiURL,
         {
